@@ -18,7 +18,9 @@ app.use(express.static(frontendPath));
 
 // ── ROUTES ────────────────────────────────────────────────────────────────────
 
-app.use('/api/recipes', require('./routes/recipes'));
+app.use('/api/recipes',   require('./routes/recipes'));
+app.use('/api/auth',      require('./routes/auth'));
+app.use('/api/favorites', require('./routes/favorites'));
 
 // ── HEALTH CHECK ──────────────────────────────────────────────────────────────
 
