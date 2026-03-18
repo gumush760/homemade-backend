@@ -1,0 +1,1828 @@
+[
+  {
+    "id": 1,
+    "emoji": "🍲",
+    "bg": "bg1",
+    "name": "Lentil & Tomato Soup",
+    "time": "30 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "soup",
+      "vegan"
+    ],
+    "keywords": [
+      "lentil",
+      "tomato",
+      "soup",
+      "vegan",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "1 cup red lentils",
+      "2 large tomatoes, diced",
+      "1 onion, chopped",
+      "3 garlic cloves",
+      "1 tsp cumin",
+      "Salt & pepper",
+      "2 tbsp olive oil",
+      "4 cups vegetable broth"
+    ],
+    "steps": [
+      "Heat olive oil in a pot over medium heat. Sauté onion for 5 minutes until soft.",
+      "Add garlic and cumin, cook for 1 minute until fragrant.",
+      "Add lentils, tomatoes, and vegetable broth. Bring to a boil.",
+      "Reduce heat and simmer for 20 minutes until lentils are tender.",
+      "Season with salt and pepper. Serve hot with bread."
+    ]
+  },
+  {
+    "id": 2,
+    "emoji": "🥣",
+    "bg": "bg2",
+    "name": "Chicken Noodle Soup",
+    "time": "40 min",
+    "badge": "Classic",
+    "badgeClass": "",
+    "category": [
+      "soup"
+    ],
+    "keywords": [
+      "chicken",
+      "noodle",
+      "soup",
+      "classic"
+    ],
+    "ingredients": [
+      "2 chicken breasts",
+      "2 cups egg noodles",
+      "3 carrots, sliced",
+      "3 celery stalks",
+      "1 onion",
+      "4 garlic cloves",
+      "6 cups chicken broth",
+      "Salt, pepper, thyme"
+    ],
+    "steps": [
+      "Sauté onion, carrots, and celery in oil for 5 minutes.",
+      "Add garlic and cook 1 minute. Add chicken broth and bring to a boil.",
+      "Add chicken breasts whole and simmer for 20 minutes.",
+      "Remove chicken, shred it, and return to pot. Add noodles.",
+      "Cook 8 more minutes until noodles are tender. Season and serve."
+    ]
+  },
+  {
+    "id": 3,
+    "emoji": "🍜",
+    "bg": "bg3",
+    "name": "Creamy Mushroom Soup",
+    "time": "35 min",
+    "badge": "Vegetarian",
+    "badgeClass": "vegan",
+    "category": [
+      "soup",
+      "vegan"
+    ],
+    "keywords": [
+      "mushroom",
+      "cream",
+      "soup",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "500g mushrooms, sliced",
+      "1 onion",
+      "3 garlic cloves",
+      "2 cups vegetable broth",
+      "1 cup heavy cream",
+      "2 tbsp butter",
+      "Fresh thyme",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Melt butter in a pot. Cook onion until soft, about 5 minutes.",
+      "Add mushrooms and cook until golden, about 8 minutes.",
+      "Add garlic and thyme, cook 1 minute.",
+      "Pour in broth and simmer for 15 minutes.",
+      "Blend half the soup for creaminess, then stir in cream. Season and serve."
+    ]
+  },
+  {
+    "id": 4,
+    "emoji": "🫕",
+    "bg": "bg4",
+    "name": "Tomato Basil Soup",
+    "time": "25 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "soup",
+      "vegan",
+      "quick"
+    ],
+    "keywords": [
+      "tomato",
+      "basil",
+      "soup",
+      "vegan"
+    ],
+    "ingredients": [
+      "800g canned tomatoes",
+      "1 onion",
+      "4 garlic cloves",
+      "2 cups vegetable broth",
+      "Handful fresh basil",
+      "2 tbsp olive oil",
+      "Salt, pepper, sugar"
+    ],
+    "steps": [
+      "Sauté onion in olive oil for 5 minutes. Add garlic and cook 1 minute.",
+      "Add tomatoes and broth. Simmer for 15 minutes.",
+      "Blend until smooth. Add fresh basil leaves.",
+      "Season with salt, pepper, and a pinch of sugar. Serve with crusty bread."
+    ]
+  },
+  {
+    "id": 5,
+    "emoji": "🥘",
+    "bg": "bg5",
+    "name": "French Onion Soup",
+    "time": "60 min",
+    "badge": "Classic",
+    "badgeClass": "",
+    "category": [
+      "soup"
+    ],
+    "keywords": [
+      "onion",
+      "soup",
+      "french",
+      "cheese",
+      "bread"
+    ],
+    "ingredients": [
+      "6 large onions, sliced",
+      "4 tbsp butter",
+      "1 cup dry white wine",
+      "4 cups beef broth",
+      "Baguette slices",
+      "200g Gruyère cheese, grated",
+      "Salt, pepper, thyme"
+    ],
+    "steps": [
+      "Caramelize onions in butter over low heat for 40 minutes, stirring occasionally.",
+      "Add wine and cook until evaporated. Add broth and thyme.",
+      "Simmer for 15 minutes. Season well.",
+      "Ladle into oven-safe bowls. Top with baguette slices and grated Gruyère.",
+      "Broil until cheese is golden and bubbling."
+    ]
+  },
+  {
+    "id": 6,
+    "emoji": "🍲",
+    "bg": "bg6",
+    "name": "Minestrone",
+    "time": "45 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "soup",
+      "vegan"
+    ],
+    "keywords": [
+      "minestrone",
+      "vegetable",
+      "soup",
+      "beans",
+      "pasta",
+      "vegan"
+    ],
+    "ingredients": [
+      "1 can cannellini beans",
+      "2 zucchini, diced",
+      "2 carrots",
+      "2 celery stalks",
+      "1 can diced tomatoes",
+      "1 cup small pasta",
+      "5 cups vegetable broth",
+      "Parmesan rind (optional)"
+    ],
+    "steps": [
+      "Sauté onion, carrots, celery in olive oil for 5 minutes.",
+      "Add zucchini and cook 3 more minutes.",
+      "Add tomatoes, broth, and parmesan rind. Simmer 20 minutes.",
+      "Add beans and pasta, cook until pasta is tender, about 10 minutes.",
+      "Remove rind. Finish with olive oil and fresh herbs."
+    ]
+  },
+  {
+    "id": 7,
+    "emoji": "🥣",
+    "bg": "bg7",
+    "name": "Spicy Pumpkin Soup",
+    "time": "35 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "soup",
+      "vegan"
+    ],
+    "keywords": [
+      "pumpkin",
+      "soup",
+      "spicy",
+      "vegan",
+      "ginger"
+    ],
+    "ingredients": [
+      "1kg pumpkin, cubed",
+      "1 onion",
+      "3 garlic cloves",
+      "1 tsp ginger",
+      "1 tsp chili flakes",
+      "4 cups vegetable broth",
+      "1 can coconut milk",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Roast pumpkin at 200°C for 25 minutes until tender.",
+      "Sauté onion, garlic, ginger, and chili in oil for 5 minutes.",
+      "Add roasted pumpkin and broth. Blend until smooth.",
+      "Stir in coconut milk and simmer 5 minutes. Season and serve."
+    ]
+  },
+  {
+    "id": 8,
+    "emoji": "🍝",
+    "bg": "bg2",
+    "name": "Garlic Butter Pasta",
+    "time": "20 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "main",
+      "quick"
+    ],
+    "keywords": [
+      "pasta",
+      "garlic",
+      "butter",
+      "quick",
+      "easy"
+    ],
+    "ingredients": [
+      "300g spaghetti",
+      "6 garlic cloves, minced",
+      "4 tbsp butter",
+      "2 tbsp olive oil",
+      "Handful of parsley",
+      "Salt & black pepper",
+      "Parmesan to serve"
+    ],
+    "steps": [
+      "Cook spaghetti in salted boiling water until al dente. Reserve 1 cup pasta water.",
+      "In a pan, melt butter with olive oil over low heat. Add garlic and cook gently for 3 minutes.",
+      "Add drained pasta to the pan with a splash of pasta water. Toss well.",
+      "Season with salt and pepper. Finish with fresh parsley and parmesan."
+    ]
+  },
+  {
+    "id": 9,
+    "emoji": "🍗",
+    "bg": "bg3",
+    "name": "Lemon Herb Chicken",
+    "time": "45 min",
+    "badge": "Healthy",
+    "badgeClass": "healthy",
+    "category": [
+      "main"
+    ],
+    "keywords": [
+      "chicken",
+      "lemon",
+      "herb",
+      "healthy",
+      "baked"
+    ],
+    "ingredients": [
+      "4 chicken thighs",
+      "2 lemons",
+      "4 garlic cloves",
+      "2 tsp dried oregano",
+      "2 tsp dried thyme",
+      "3 tbsp olive oil",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Marinate chicken with lemon juice, garlic, herbs, and olive oil for 30 minutes.",
+      "Preheat oven to 200°C.",
+      "Place chicken in a baking dish with lemon slices. Season well.",
+      "Roast for 35–40 minutes until golden and cooked through."
+    ]
+  },
+  {
+    "id": 10,
+    "emoji": "🥩",
+    "bg": "bg4",
+    "name": "Beef Stir Fry",
+    "time": "20 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "main",
+      "quick"
+    ],
+    "keywords": [
+      "beef",
+      "stir fry",
+      "quick",
+      "vegetables"
+    ],
+    "ingredients": [
+      "400g beef strips",
+      "2 bell peppers",
+      "1 broccoli head",
+      "3 garlic cloves",
+      "3 tbsp soy sauce",
+      "1 tbsp oyster sauce",
+      "1 tsp sesame oil",
+      "Cornstarch"
+    ],
+    "steps": [
+      "Toss beef strips in cornstarch. Cook in hot wok until browned. Set aside.",
+      "Stir fry vegetables in the same wok for 3 minutes.",
+      "Add garlic, soy sauce, and oyster sauce. Cook 1 minute.",
+      "Return beef to wok. Drizzle with sesame oil and serve with rice."
+    ]
+  },
+  {
+    "id": 11,
+    "emoji": "🍛",
+    "bg": "bg5",
+    "name": "Chicken Curry",
+    "time": "40 min",
+    "badge": "Spicy",
+    "badgeClass": "",
+    "category": [
+      "main"
+    ],
+    "keywords": [
+      "chicken",
+      "curry",
+      "spicy",
+      "indian",
+      "rice"
+    ],
+    "ingredients": [
+      "500g chicken, cubed",
+      "1 can coconut milk",
+      "2 tbsp curry paste",
+      "1 onion",
+      "3 garlic cloves",
+      "1 tsp ginger",
+      "1 can diced tomatoes",
+      "Salt & cilantro"
+    ],
+    "steps": [
+      "Fry onion in oil until golden. Add garlic and ginger, cook 1 minute.",
+      "Add curry paste and fry for 2 minutes until fragrant.",
+      "Add chicken and brown on all sides. Add tomatoes and coconut milk.",
+      "Simmer for 25 minutes until chicken is cooked and sauce thickens.",
+      "Garnish with cilantro and serve with rice or naan."
+    ]
+  },
+  {
+    "id": 12,
+    "emoji": "🌮",
+    "bg": "bg6",
+    "name": "Beef Tacos",
+    "time": "25 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "main",
+      "quick"
+    ],
+    "keywords": [
+      "beef",
+      "taco",
+      "mexican",
+      "quick"
+    ],
+    "ingredients": [
+      "400g minced beef",
+      "Taco shells",
+      "1 onion",
+      "2 garlic cloves",
+      "Taco seasoning",
+      "Salsa, cheese, sour cream",
+      "Lettuce, tomato"
+    ],
+    "steps": [
+      "Brown minced beef with onion and garlic in a pan.",
+      "Drain excess fat. Add taco seasoning and a splash of water.",
+      "Cook 5 minutes until sauce thickens.",
+      "Fill taco shells with meat and top with salsa, cheese, sour cream, and veggies."
+    ]
+  },
+  {
+    "id": 13,
+    "emoji": "🍣",
+    "bg": "bg7",
+    "name": "Salmon Teriyaki",
+    "time": "20 min",
+    "badge": "Healthy",
+    "badgeClass": "healthy",
+    "category": [
+      "main",
+      "quick"
+    ],
+    "keywords": [
+      "salmon",
+      "teriyaki",
+      "fish",
+      "healthy",
+      "japanese"
+    ],
+    "ingredients": [
+      "4 salmon fillets",
+      "3 tbsp soy sauce",
+      "2 tbsp honey",
+      "1 tbsp mirin",
+      "1 garlic clove",
+      "1 tsp ginger",
+      "Sesame seeds",
+      "Spring onions"
+    ],
+    "steps": [
+      "Mix soy sauce, honey, mirin, garlic, and ginger to make teriyaki sauce.",
+      "Pan-fry salmon skin-side down for 4 minutes. Flip and cook 2 more minutes.",
+      "Pour teriyaki sauce over salmon and cook 2 minutes until glazed.",
+      "Garnish with sesame seeds and spring onions. Serve with rice."
+    ]
+  },
+  {
+    "id": 14,
+    "emoji": "🍕",
+    "bg": "bg8",
+    "name": "Margherita Pizza",
+    "time": "30 min",
+    "badge": "Vegetarian",
+    "badgeClass": "vegan",
+    "category": [
+      "main"
+    ],
+    "keywords": [
+      "pizza",
+      "cheese",
+      "tomato",
+      "vegetarian",
+      "italian"
+    ],
+    "ingredients": [
+      "Pizza dough",
+      "200ml tomato passata",
+      "200g mozzarella",
+      "Fresh basil",
+      "2 tbsp olive oil",
+      "Salt & pepper",
+      "Garlic (optional)"
+    ],
+    "steps": [
+      "Preheat oven to 250°C. Stretch dough on a floured surface.",
+      "Spread tomato passata over the base. Season with salt and a drizzle of olive oil.",
+      "Top with torn mozzarella.",
+      "Bake for 10–12 minutes until crust is golden and cheese is bubbly.",
+      "Top with fresh basil leaves and serve immediately."
+    ]
+  },
+  {
+    "id": 15,
+    "emoji": "🥘",
+    "bg": "bg9",
+    "name": "Shakshuka",
+    "time": "25 min",
+    "badge": "Vegetarian",
+    "badgeClass": "vegan",
+    "category": [
+      "main",
+      "breakfast",
+      "quick"
+    ],
+    "keywords": [
+      "egg",
+      "tomato",
+      "shakshuka",
+      "vegetarian",
+      "quick"
+    ],
+    "ingredients": [
+      "6 eggs",
+      "800g canned tomatoes",
+      "2 bell peppers",
+      "1 onion",
+      "3 garlic cloves",
+      "1 tsp cumin",
+      "1 tsp paprika",
+      "Chili flakes, feta, parsley"
+    ],
+    "steps": [
+      "Sauté onion and peppers in olive oil for 5 minutes.",
+      "Add garlic, cumin, paprika, and chili. Cook 1 minute.",
+      "Add tomatoes and simmer for 10 minutes until thickened.",
+      "Make 6 wells and crack an egg into each. Cover and cook until whites are set.",
+      "Top with crumbled feta and fresh parsley."
+    ]
+  },
+  {
+    "id": 16,
+    "emoji": "🥗",
+    "bg": "bg3",
+    "name": "Grilled Chicken Salad",
+    "time": "25 min",
+    "badge": "Healthy",
+    "badgeClass": "healthy",
+    "category": [
+      "salad",
+      "main"
+    ],
+    "keywords": [
+      "chicken",
+      "salad",
+      "healthy",
+      "grilled"
+    ],
+    "ingredients": [
+      "2 chicken breasts",
+      "Mixed greens",
+      "Cherry tomatoes",
+      "Cucumber, sliced",
+      "Red onion",
+      "Lemon juice",
+      "3 tbsp olive oil",
+      "Salt & herbs"
+    ],
+    "steps": [
+      "Season chicken with salt, pepper, and herbs. Grill for 6–7 minutes each side.",
+      "Let chicken rest for 5 minutes, then slice.",
+      "Toss greens, tomatoes, cucumber, and onion in a bowl.",
+      "Drizzle with olive oil and lemon juice. Top with sliced chicken."
+    ]
+  },
+  {
+    "id": 17,
+    "emoji": "🥙",
+    "bg": "bg5",
+    "name": "Greek Salad",
+    "time": "10 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "salad",
+      "quick",
+      "vegan"
+    ],
+    "keywords": [
+      "greek",
+      "salad",
+      "feta",
+      "olive",
+      "cucumber",
+      "quick"
+    ],
+    "ingredients": [
+      "2 tomatoes, chunked",
+      "1 cucumber, chunked",
+      "1 red onion",
+      "100g Kalamata olives",
+      "150g feta cheese",
+      "3 tbsp olive oil",
+      "1 tsp dried oregano",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Combine tomatoes, cucumber, and red onion in a bowl.",
+      "Add olives and crumbled feta.",
+      "Drizzle with olive oil and sprinkle oregano.",
+      "Season with salt and pepper. Serve immediately."
+    ]
+  },
+  {
+    "id": 18,
+    "emoji": "🥗",
+    "bg": "bg6",
+    "name": "Caesar Salad",
+    "time": "15 min",
+    "badge": "Classic",
+    "badgeClass": "",
+    "category": [
+      "salad"
+    ],
+    "keywords": [
+      "caesar",
+      "salad",
+      "romaine",
+      "crouton",
+      "parmesan"
+    ],
+    "ingredients": [
+      "1 romaine lettuce",
+      "Caesar dressing",
+      "Croutons",
+      "50g Parmesan, shaved",
+      "1 garlic clove",
+      "Lemon juice"
+    ],
+    "steps": [
+      "Wash and tear romaine leaves. Rub bowl with cut garlic.",
+      "Toss lettuce with Caesar dressing until well coated.",
+      "Add croutons and shaved Parmesan.",
+      "Serve immediately with extra lemon."
+    ]
+  },
+  {
+    "id": 19,
+    "emoji": "🥗",
+    "bg": "bg10",
+    "name": "Quinoa Avocado Salad",
+    "time": "20 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "salad",
+      "vegan"
+    ],
+    "keywords": [
+      "quinoa",
+      "avocado",
+      "salad",
+      "vegan",
+      "healthy"
+    ],
+    "ingredients": [
+      "1 cup quinoa",
+      "2 avocados",
+      "Cherry tomatoes",
+      "Cucumber",
+      "Red onion",
+      "Lime juice",
+      "3 tbsp olive oil",
+      "Cilantro, salt"
+    ],
+    "steps": [
+      "Cook quinoa according to packet instructions. Let cool.",
+      "Dice avocado, cucumber, and tomatoes. Slice red onion thinly.",
+      "Combine all vegetables with cooled quinoa.",
+      "Dress with lime juice and olive oil. Toss with fresh cilantro."
+    ]
+  },
+  {
+    "id": 20,
+    "emoji": "🥗",
+    "bg": "bg7",
+    "name": "Watermelon Feta Salad",
+    "time": "10 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "salad",
+      "quick"
+    ],
+    "keywords": [
+      "watermelon",
+      "feta",
+      "salad",
+      "mint",
+      "quick",
+      "summer"
+    ],
+    "ingredients": [
+      "Half a watermelon, cubed",
+      "200g feta cheese",
+      "Fresh mint leaves",
+      "Red onion, thinly sliced",
+      "2 tbsp olive oil",
+      "Balsamic glaze",
+      "Black pepper"
+    ],
+    "steps": [
+      "Arrange watermelon cubes on a platter.",
+      "Crumble feta over the top.",
+      "Scatter mint leaves and red onion slices.",
+      "Drizzle with olive oil and balsamic glaze. Season with pepper."
+    ]
+  },
+  {
+    "id": 21,
+    "emoji": "🍮",
+    "bg": "bg6",
+    "name": "Classic Crème Caramel",
+    "time": "60 min",
+    "badge": "Dessert",
+    "badgeClass": "",
+    "category": [
+      "dessert"
+    ],
+    "keywords": [
+      "dessert",
+      "caramel",
+      "sweet",
+      "custard",
+      "egg"
+    ],
+    "ingredients": [
+      "4 eggs",
+      "400ml whole milk",
+      "100g sugar (for caramel)",
+      "60g sugar (for custard)",
+      "1 tsp vanilla extract"
+    ],
+    "steps": [
+      "Melt 100g sugar in a pan until golden caramel. Pour into ramekins.",
+      "Whisk eggs with 60g sugar and vanilla. Heat milk until almost boiling, then combine.",
+      "Pour custard over caramel in ramekins. Bake in a water bath at 160°C for 40 minutes.",
+      "Cool completely, then refrigerate for at least 2 hours. Invert to serve."
+    ]
+  },
+  {
+    "id": 22,
+    "emoji": "🍫",
+    "bg": "bg7",
+    "name": "Chocolate Lava Cake",
+    "time": "20 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "dessert",
+      "quick"
+    ],
+    "keywords": [
+      "chocolate",
+      "cake",
+      "dessert",
+      "sweet",
+      "quick"
+    ],
+    "ingredients": [
+      "200g dark chocolate",
+      "100g butter",
+      "2 eggs",
+      "2 egg yolks",
+      "100g icing sugar",
+      "60g flour",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Preheat oven to 200°C. Butter 4 ramekins and dust with cocoa.",
+      "Melt chocolate and butter together. Whisk in eggs, egg yolks, and sugar until smooth.",
+      "Fold in flour and salt gently.",
+      "Fill ramekins 3/4 full. Bake for exactly 8–10 minutes — edges set, center still wobbly.",
+      "Run a knife around the edge and invert immediately onto a plate. Serve with ice cream."
+    ]
+  },
+  {
+    "id": 23,
+    "emoji": "🍪",
+    "bg": "bg2",
+    "name": "Chocolate Chip Cookies",
+    "time": "25 min",
+    "badge": "Baked",
+    "badgeClass": "",
+    "category": [
+      "dessert",
+      "snack"
+    ],
+    "keywords": [
+      "cookie",
+      "chocolate",
+      "baked",
+      "dessert",
+      "sweet"
+    ],
+    "ingredients": [
+      "225g butter, softened",
+      "200g brown sugar",
+      "100g white sugar",
+      "2 eggs",
+      "1 tsp vanilla",
+      "350g flour",
+      "1 tsp baking soda",
+      "300g chocolate chips"
+    ],
+    "steps": [
+      "Cream butter and sugars until fluffy. Beat in eggs and vanilla.",
+      "Mix in flour and baking soda until just combined.",
+      "Fold in chocolate chips.",
+      "Drop spoonfuls on a lined baking tray. Bake at 180°C for 10–12 minutes.",
+      "Cool on tray for 5 minutes before moving."
+    ]
+  },
+  {
+    "id": 24,
+    "emoji": "🍰",
+    "bg": "bg9",
+    "name": "New York Cheesecake",
+    "time": "90 min",
+    "badge": "Baked",
+    "badgeClass": "",
+    "category": [
+      "dessert"
+    ],
+    "keywords": [
+      "cheesecake",
+      "dessert",
+      "cream cheese",
+      "baked",
+      "sweet"
+    ],
+    "ingredients": [
+      "500g cream cheese, room temperature",
+      "200g digestive biscuits",
+      "100g butter, melted",
+      "150g sugar",
+      "3 eggs, room temperature",
+      "1 tsp vanilla",
+      "200ml sour cream",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Crush biscuits and mix with melted butter. Press firmly into a springform tin. Chill 15 minutes.",
+      "Beat cream cheese and sugar until completely smooth. Add eggs one at a time, mixing slowly.",
+      "Stir in vanilla, sour cream, and salt. Do not overmix.",
+      "Pour over the base. Place tin in a roasting pan filled with 2cm of hot water (water bath).",
+      "Bake at 175°C for 60–70 minutes until edges are set but center has a slight wobble.",
+      "Turn oven off, crack door open, and leave cheesecake inside for 1 hour. Chill overnight before serving."
+    ]
+  },
+  {
+    "id": 25,
+    "emoji": "🍮",
+    "bg": "bg1",
+    "name": "Tiramisu",
+    "time": "30 min",
+    "badge": "No-Bake",
+    "badgeClass": "",
+    "category": [
+      "dessert"
+    ],
+    "keywords": [
+      "tiramisu",
+      "dessert",
+      "coffee",
+      "mascarpone",
+      "italian"
+    ],
+    "ingredients": [
+      "500g mascarpone",
+      "6 eggs, separated",
+      "100g sugar",
+      "300ml strong espresso, cooled",
+      "200g ladyfinger biscuits",
+      "2 tbsp Marsala or rum",
+      "Cocoa powder to dust"
+    ],
+    "steps": [
+      "Whisk 6 egg yolks with sugar until thick and pale yellow, about 3–4 minutes.",
+      "Fold mascarpone into the yolk mixture until smooth.",
+      "Beat 6 egg whites to stiff peaks and gently fold into the cream in two batches.",
+      "Mix cooled espresso with Marsala. Quickly dip each ladyfinger (do not soak) and layer in a dish.",
+      "Spread half the cream over the biscuits. Repeat with another layer of dipped biscuits and cream.",
+      "Dust generously with cocoa powder. Refrigerate for at least 4–6 hours, ideally overnight."
+    ]
+  },
+  {
+    "id": 26,
+    "emoji": "🍩",
+    "bg": "bg3",
+    "name": "Banana Bread",
+    "time": "65 min",
+    "badge": "Baked",
+    "badgeClass": "",
+    "category": [
+      "dessert",
+      "breakfast",
+      "snack"
+    ],
+    "keywords": [
+      "banana",
+      "bread",
+      "baked",
+      "sweet",
+      "snack"
+    ],
+    "ingredients": [
+      "3 ripe bananas",
+      "80g melted butter",
+      "150g sugar",
+      "1 egg",
+      "1 tsp vanilla",
+      "1 tsp baking soda",
+      "190g flour",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Mash bananas in a bowl. Stir in melted butter.",
+      "Mix in sugar, egg, and vanilla.",
+      "Sprinkle baking soda and salt. Fold in flour until just combined.",
+      "Pour into a greased loaf tin. Bake at 175°C for 55–60 minutes.",
+      "Test with a skewer — it should come out clean."
+    ]
+  },
+  {
+    "id": 27,
+    "emoji": "🍳",
+    "bg": "bg4",
+    "name": "Turkish Menemen",
+    "time": "15 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "breakfast",
+      "quick"
+    ],
+    "keywords": [
+      "egg",
+      "tomato",
+      "pepper",
+      "breakfast",
+      "turkish"
+    ],
+    "ingredients": [
+      "4 eggs",
+      "2 tomatoes, diced",
+      "2 green peppers, chopped",
+      "1 onion",
+      "2 tbsp butter",
+      "Salt, pepper, paprika"
+    ],
+    "steps": [
+      "Melt butter in a pan. Sauté onion and peppers for 5 minutes.",
+      "Add tomatoes and cook until softened, about 5 minutes.",
+      "Crack eggs over the mixture. Stir gently and cook to desired doneness.",
+      "Season with salt, pepper and paprika. Serve immediately with bread."
+    ]
+  },
+  {
+    "id": 28,
+    "emoji": "🥣",
+    "bg": "bg5",
+    "name": "Overnight Oats",
+    "time": "5 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "breakfast",
+      "quick",
+      "vegan"
+    ],
+    "keywords": [
+      "oats",
+      "breakfast",
+      "healthy",
+      "vegan",
+      "quick"
+    ],
+    "ingredients": [
+      "1 cup rolled oats",
+      "1 cup plant milk",
+      "1 tbsp chia seeds",
+      "2 tbsp honey or maple syrup",
+      "Berries to top",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Mix oats, milk, chia seeds, sweetener and salt in a jar.",
+      "Stir well, seal, and refrigerate overnight (or at least 4 hours).",
+      "Top with fresh berries and an extra drizzle of honey before serving."
+    ]
+  },
+  {
+    "id": 29,
+    "emoji": "🥞",
+    "bg": "bg6",
+    "name": "Fluffy Pancakes",
+    "time": "20 min",
+    "badge": "Classic",
+    "badgeClass": "",
+    "category": [
+      "breakfast",
+      "quick"
+    ],
+    "keywords": [
+      "pancake",
+      "breakfast",
+      "fluffy",
+      "classic",
+      "quick"
+    ],
+    "ingredients": [
+      "200g flour",
+      "2 tsp baking powder",
+      "2 tbsp sugar",
+      "1 egg",
+      "250ml milk",
+      "2 tbsp melted butter",
+      "Pinch of salt",
+      "Maple syrup to serve"
+    ],
+    "steps": [
+      "Mix flour, baking powder, sugar, and salt in a bowl.",
+      "Whisk together egg, milk, and melted butter. Pour into dry ingredients.",
+      "Stir until just combined — lumps are fine.",
+      "Cook spoonfuls on a greased pan over medium heat until bubbles form, then flip.",
+      "Serve with maple syrup and fresh fruit."
+    ]
+  },
+  {
+    "id": 30,
+    "emoji": "🍳",
+    "bg": "bg7",
+    "name": "Avocado Toast",
+    "time": "10 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "breakfast",
+      "quick",
+      "vegan",
+      "snack"
+    ],
+    "keywords": [
+      "avocado",
+      "toast",
+      "breakfast",
+      "quick",
+      "vegan"
+    ],
+    "ingredients": [
+      "2 slices sourdough bread",
+      "1 ripe avocado",
+      "1 lemon",
+      "Chili flakes",
+      "Salt & pepper",
+      "Olive oil",
+      "Optional: poached egg"
+    ],
+    "steps": [
+      "Toast the bread until golden and crispy.",
+      "Mash avocado with lemon juice, salt, and pepper.",
+      "Spread generously over toast.",
+      "Top with chili flakes, a drizzle of olive oil, and a poached egg if desired."
+    ]
+  },
+  {
+    "id": 31,
+    "emoji": "🥚",
+    "bg": "bg8",
+    "name": "Classic French Omelette",
+    "time": "10 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "breakfast",
+      "quick"
+    ],
+    "keywords": [
+      "egg",
+      "omelette",
+      "breakfast",
+      "quick",
+      "french"
+    ],
+    "ingredients": [
+      "3 eggs",
+      "1 tbsp butter",
+      "Salt & pepper",
+      "Fresh herbs (chives, parsley)",
+      "Optional: cheese, mushrooms, ham"
+    ],
+    "steps": [
+      "Beat eggs with salt and pepper until just combined.",
+      "Melt butter in a non-stick pan over medium-high heat.",
+      "Pour in eggs and immediately stir with a spatula in circular motions.",
+      "When nearly set, fold the omelette in thirds and slide onto a plate."
+    ]
+  },
+  {
+    "id": 32,
+    "emoji": "🍓",
+    "bg": "bg9",
+    "name": "Berry Smoothie Bowl",
+    "time": "10 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "breakfast",
+      "quick",
+      "vegan"
+    ],
+    "keywords": [
+      "smoothie",
+      "berry",
+      "breakfast",
+      "vegan",
+      "quick",
+      "healthy"
+    ],
+    "ingredients": [
+      "2 cups frozen mixed berries",
+      "1 banana",
+      "1/2 cup plant milk",
+      "Granola, coconut flakes",
+      "Fresh berries, kiwi, honey to top"
+    ],
+    "steps": [
+      "Blend frozen berries, banana, and milk until thick and smooth.",
+      "Pour into a bowl — it should be thicker than a regular smoothie.",
+      "Top with granola, fresh fruit, coconut flakes, and a drizzle of honey."
+    ]
+  },
+  {
+    "id": 33,
+    "emoji": "🧀",
+    "bg": "bg1",
+    "name": "Caprese Skewers",
+    "time": "10 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "snack",
+      "appetizer",
+      "quick"
+    ],
+    "keywords": [
+      "caprese",
+      "mozzarella",
+      "tomato",
+      "snack",
+      "quick",
+      "appetizer"
+    ],
+    "ingredients": [
+      "Cherry tomatoes",
+      "250g fresh mozzarella balls",
+      "Fresh basil leaves",
+      "Balsamic glaze",
+      "Olive oil",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Thread a tomato, basil leaf, and mozzarella ball onto a skewer. Repeat.",
+      "Arrange on a plate and drizzle with olive oil and balsamic glaze.",
+      "Season with salt and pepper. Serve immediately."
+    ]
+  },
+  {
+    "id": 34,
+    "emoji": "🥑",
+    "bg": "bg2",
+    "name": "Guacamole & Chips",
+    "time": "10 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "snack",
+      "appetizer",
+      "quick",
+      "vegan"
+    ],
+    "keywords": [
+      "guacamole",
+      "avocado",
+      "chips",
+      "snack",
+      "quick",
+      "vegan"
+    ],
+    "ingredients": [
+      "3 ripe avocados",
+      "1 lime",
+      "1 small red onion, diced",
+      "1 tomato, diced",
+      "1 jalapeño",
+      "Cilantro",
+      "Salt",
+      "Tortilla chips to serve"
+    ],
+    "steps": [
+      "Halve and pit avocados. Scoop flesh into a bowl.",
+      "Mash with a fork to desired texture.",
+      "Add lime juice, onion, tomato, jalapeño, and cilantro.",
+      "Season with salt. Serve with tortilla chips."
+    ]
+  },
+  {
+    "id": 35,
+    "emoji": "🫓",
+    "bg": "bg3",
+    "name": "Bruschetta",
+    "time": "15 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "snack",
+      "appetizer",
+      "quick",
+      "vegan"
+    ],
+    "keywords": [
+      "bruschetta",
+      "tomato",
+      "bread",
+      "snack",
+      "italian",
+      "quick"
+    ],
+    "ingredients": [
+      "1 baguette",
+      "4 ripe tomatoes, diced",
+      "3 garlic cloves",
+      "Fresh basil",
+      "3 tbsp olive oil",
+      "Salt & pepper",
+      "Balsamic glaze"
+    ],
+    "steps": [
+      "Slice baguette and grill or toast until crispy.",
+      "Rub each slice with a halved garlic clove.",
+      "Mix tomatoes with olive oil, basil, salt, and pepper.",
+      "Pile tomato mixture on toast. Drizzle with balsamic glaze."
+    ]
+  },
+  {
+    "id": 36,
+    "emoji": "🥜",
+    "bg": "bg4",
+    "name": "Hummus with Pita",
+    "time": "10 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "snack",
+      "appetizer",
+      "vegan",
+      "quick"
+    ],
+    "keywords": [
+      "hummus",
+      "chickpea",
+      "pita",
+      "snack",
+      "vegan",
+      "dip"
+    ],
+    "ingredients": [
+      "1 can chickpeas",
+      "3 tbsp tahini",
+      "2 garlic cloves",
+      "2 tbsp lemon juice",
+      "3 tbsp olive oil",
+      "Salt",
+      "Paprika & cumin to garnish",
+      "Pita bread"
+    ],
+    "steps": [
+      "Drain chickpeas, reserving liquid.",
+      "Blend chickpeas, tahini, garlic, lemon juice, and salt until smooth.",
+      "Add reserved liquid bit by bit until creamy consistency.",
+      "Drizzle with olive oil and sprinkle paprika. Serve with warm pita."
+    ]
+  },
+  {
+    "id": 37,
+    "emoji": "🍹",
+    "bg": "bg5",
+    "name": "Mango Lassi",
+    "time": "5 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "beverage",
+      "quick"
+    ],
+    "keywords": [
+      "mango",
+      "lassi",
+      "drink",
+      "smoothie",
+      "quick",
+      "indian"
+    ],
+    "ingredients": [
+      "2 ripe mangoes or 1 cup mango pulp",
+      "1 cup plain yogurt",
+      "1/2 cup milk",
+      "2 tbsp sugar",
+      "Pinch of cardamom",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Peel and cube mangoes (or use canned pulp).",
+      "Blend mango, yogurt, milk, and sugar until smooth.",
+      "Add a pinch of cardamom and blend again.",
+      "Pour over ice and serve chilled."
+    ]
+  },
+  {
+    "id": 38,
+    "emoji": "🍵",
+    "bg": "bg6",
+    "name": "Homemade Chai Latte",
+    "time": "10 min",
+    "badge": "Warm",
+    "badgeClass": "",
+    "category": [
+      "beverage",
+      "quick"
+    ],
+    "keywords": [
+      "chai",
+      "tea",
+      "milk",
+      "spice",
+      "drink",
+      "warm",
+      "quick"
+    ],
+    "ingredients": [
+      "2 cups milk",
+      "1 cup water",
+      "2 black tea bags",
+      "1 cinnamon stick",
+      "4 cardamom pods",
+      "2 cloves",
+      "1 tsp ginger",
+      "2 tbsp sugar"
+    ],
+    "steps": [
+      "Bring water to a boil with cinnamon, cardamom, cloves, and ginger.",
+      "Add tea bags and steep for 3 minutes.",
+      "Add milk and sugar, bring back to a simmer.",
+      "Strain into mugs and serve hot."
+    ]
+  },
+  {
+    "id": 39,
+    "emoji": "🧃",
+    "bg": "bg7",
+    "name": "Fresh Lemonade",
+    "time": "10 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "beverage",
+      "quick",
+      "vegan"
+    ],
+    "keywords": [
+      "lemonade",
+      "lemon",
+      "drink",
+      "refreshing",
+      "quick",
+      "vegan"
+    ],
+    "ingredients": [
+      "6 lemons",
+      "1 cup sugar",
+      "4 cups water",
+      "Ice",
+      "Fresh mint (optional)"
+    ],
+    "steps": [
+      "Make simple syrup: heat 1 cup water with sugar until dissolved. Cool.",
+      "Juice all lemons — you need about 1 cup of juice.",
+      "Mix lemon juice with syrup and remaining 3 cups of cold water.",
+      "Adjust sweetness to taste. Serve over ice with mint."
+    ]
+  },
+  {
+    "id": 40,
+    "emoji": "🥤",
+    "bg": "bg8",
+    "name": "Strawberry Milkshake",
+    "time": "5 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "beverage",
+      "quick",
+      "dessert"
+    ],
+    "keywords": [
+      "milkshake",
+      "strawberry",
+      "drink",
+      "quick",
+      "sweet"
+    ],
+    "ingredients": [
+      "2 cups fresh or frozen strawberries",
+      "3 scoops vanilla ice cream",
+      "1/2 cup milk",
+      "1 tbsp sugar",
+      "Whipped cream to top"
+    ],
+    "steps": [
+      "Add strawberries, ice cream, milk, and sugar to a blender.",
+      "Blend until smooth and creamy.",
+      "Pour into tall glasses and top with whipped cream.",
+      "Garnish with a fresh strawberry."
+    ]
+  },
+  {
+    "id": 41,
+    "emoji": "☕",
+    "bg": "bg9",
+    "name": "Dalgona Coffee",
+    "time": "10 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "beverage",
+      "quick"
+    ],
+    "keywords": [
+      "coffee",
+      "dalgona",
+      "drink",
+      "quick",
+      "trendy"
+    ],
+    "ingredients": [
+      "2 tbsp instant coffee",
+      "2 tbsp sugar",
+      "2 tbsp hot water",
+      "1 cup milk",
+      "Ice cubes"
+    ],
+    "steps": [
+      "Whisk instant coffee, sugar, and hot water together until thick and frothy — about 3 minutes by hand.",
+      "Fill a glass with ice and pour in milk.",
+      "Spoon the whipped coffee on top.",
+      "Stir before drinking."
+    ]
+  },
+  {
+    "id": 42,
+    "emoji": "🥦",
+    "bg": "bg10",
+    "name": "Buddha Bowl",
+    "time": "30 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "vegan",
+      "main"
+    ],
+    "keywords": [
+      "buddha bowl",
+      "vegan",
+      "healthy",
+      "quinoa",
+      "roasted"
+    ],
+    "ingredients": [
+      "1 cup quinoa",
+      "1 can chickpeas",
+      "2 cups broccoli florets",
+      "2 carrots",
+      "1 avocado",
+      "Tahini dressing",
+      "Lemon, garlic",
+      "Olive oil"
+    ],
+    "steps": [
+      "Cook quinoa. Toss chickpeas and vegetables with olive oil and roast at 200°C for 20 minutes.",
+      "Make tahini dressing: mix tahini, lemon, garlic, and water until smooth.",
+      "Assemble bowl with quinoa, roasted veg, avocado.",
+      "Drizzle with tahini dressing and serve."
+    ]
+  },
+  {
+    "id": 43,
+    "emoji": "🌱",
+    "bg": "bg1",
+    "name": "Vegan Pad Thai",
+    "time": "25 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "vegan",
+      "main",
+      "quick"
+    ],
+    "keywords": [
+      "pad thai",
+      "noodles",
+      "vegan",
+      "tofu",
+      "thai"
+    ],
+    "ingredients": [
+      "200g rice noodles",
+      "200g firm tofu",
+      "2 tbsp soy sauce",
+      "2 tbsp tamarind paste",
+      "1 tbsp sugar",
+      "Bean sprouts",
+      "Spring onions",
+      "Peanuts, lime, chili"
+    ],
+    "steps": [
+      "Soak noodles in hot water for 8 minutes. Drain.",
+      "Fry tofu until golden. Set aside.",
+      "Stir fry noodles with soy sauce, tamarind, and sugar.",
+      "Add tofu, bean sprouts, and spring onions. Toss well.",
+      "Serve with peanuts, lime wedge, and chili flakes."
+    ]
+  },
+  {
+    "id": 44,
+    "emoji": "🫘",
+    "bg": "bg2",
+    "name": "Black Bean Tacos",
+    "time": "20 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "vegan",
+      "main",
+      "quick"
+    ],
+    "keywords": [
+      "taco",
+      "black bean",
+      "vegan",
+      "mexican",
+      "quick"
+    ],
+    "ingredients": [
+      "2 cans black beans",
+      "Corn tortillas",
+      "1 tsp cumin",
+      "1 tsp chili powder",
+      "Salsa",
+      "Avocado",
+      "Lime",
+      "Cilantro"
+    ],
+    "steps": [
+      "Drain and rinse beans. Cook with cumin and chili powder for 5 minutes.",
+      "Mash slightly with a fork. Season with salt.",
+      "Warm tortillas in a dry pan.",
+      "Fill with bean mixture, top with salsa, avocado, and cilantro. Squeeze lime."
+    ]
+  },
+  {
+    "id": 45,
+    "emoji": "🍤",
+    "bg": "bg3",
+    "name": "Crispy Calamari",
+    "time": "20 min",
+    "badge": "Fried",
+    "badgeClass": "",
+    "category": [
+      "appetizer"
+    ],
+    "keywords": [
+      "calamari",
+      "squid",
+      "fried",
+      "appetizer",
+      "seafood"
+    ],
+    "ingredients": [
+      "500g squid rings",
+      "1 cup flour",
+      "1 tsp paprika",
+      "1 tsp garlic powder",
+      "Salt & pepper",
+      "Oil for frying",
+      "Lemon, marinara sauce to serve"
+    ],
+    "steps": [
+      "Pat squid rings dry. Mix flour with paprika, garlic powder, salt, and pepper.",
+      "Coat rings in seasoned flour.",
+      "Fry in hot oil at 180°C for 2–3 minutes until golden.",
+      "Drain on paper towels. Serve with lemon wedges and marinara."
+    ]
+  },
+  {
+    "id": 46,
+    "emoji": "🥟",
+    "bg": "bg4",
+    "name": "Vegetable Spring Rolls",
+    "time": "30 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "appetizer",
+      "vegan"
+    ],
+    "keywords": [
+      "spring roll",
+      "vegetable",
+      "appetizer",
+      "fried",
+      "vegan"
+    ],
+    "ingredients": [
+      "Spring roll wrappers",
+      "2 cups shredded cabbage",
+      "2 carrots, julienned",
+      "100g glass noodles",
+      "2 tbsp soy sauce",
+      "1 tsp sesame oil",
+      "Garlic, ginger",
+      "Sweet chili sauce to serve"
+    ],
+    "steps": [
+      "Soak noodles in hot water for 5 minutes. Drain and chop.",
+      "Stir fry vegetables with garlic and ginger. Add noodles, soy sauce, and sesame oil.",
+      "Cool the filling. Place 2 tbsp on each wrapper and roll tightly.",
+      "Deep fry at 180°C for 3–4 minutes until golden and crispy.",
+      "Serve with sweet chili dipping sauce."
+    ]
+  },
+  {
+    "id": 47,
+    "emoji": "🫙",
+    "bg": "bg5",
+    "name": "Stuffed Mushrooms",
+    "time": "25 min",
+    "badge": "Vegetarian",
+    "badgeClass": "vegan",
+    "category": [
+      "appetizer",
+      "snack"
+    ],
+    "keywords": [
+      "mushroom",
+      "stuffed",
+      "appetizer",
+      "cheese",
+      "vegetarian"
+    ],
+    "ingredients": [
+      "12 large mushrooms",
+      "200g cream cheese",
+      "3 garlic cloves",
+      "50g Parmesan",
+      "Breadcrumbs",
+      "Fresh herbs",
+      "Olive oil",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Remove mushroom stems and chop them finely.",
+      "Mix chopped stems with cream cheese, garlic, Parmesan, herbs, and seasoning.",
+      "Fill mushroom caps with the mixture. Top with breadcrumbs and olive oil.",
+      "Bake at 190°C for 15–18 minutes until golden."
+    ]
+  },
+  {
+    "id": 48,
+    "emoji": "🧆",
+    "bg": "bg6",
+    "name": "Falafel",
+    "time": "30 min",
+    "badge": "Vegan",
+    "badgeClass": "vegan",
+    "category": [
+      "appetizer",
+      "vegan"
+    ],
+    "keywords": [
+      "falafel",
+      "chickpea",
+      "vegan",
+      "middle eastern",
+      "appetizer"
+    ],
+    "ingredients": [
+      "400g dried chickpeas (soaked overnight)",
+      "1 onion",
+      "4 garlic cloves",
+      "Parsley & cilantro",
+      "1 tsp cumin",
+      "1 tsp coriander",
+      "Salt, pepper",
+      "Oil for frying"
+    ],
+    "steps": [
+      "Drain chickpeas (do not cook). Blend with all ingredients until a coarse paste forms.",
+      "Refrigerate for 30 minutes. Form into small patties or balls.",
+      "Deep fry in oil at 180°C for 3–4 minutes until deep golden.",
+      "Serve in pita with tahini, tomatoes, and pickles."
+    ]
+  },
+  {
+    "id": 49,
+    "emoji": "🌯",
+    "bg": "bg7",
+    "name": "Chicken Wrap",
+    "time": "15 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "quick",
+      "main"
+    ],
+    "keywords": [
+      "chicken",
+      "wrap",
+      "quick",
+      "lunch"
+    ],
+    "ingredients": [
+      "2 flour tortillas",
+      "2 grilled chicken strips",
+      "Lettuce",
+      "Tomato",
+      "Cucumber",
+      "Garlic sauce or hummus",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Warm tortillas in a dry pan for 30 seconds each side.",
+      "Spread garlic sauce or hummus over each tortilla.",
+      "Layer chicken, lettuce, tomato, and cucumber.",
+      "Roll tightly, slice in half, and serve."
+    ]
+  },
+  {
+    "id": 50,
+    "emoji": "🍱",
+    "bg": "bg8",
+    "name": "Egg Fried Rice",
+    "time": "15 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "quick",
+      "main"
+    ],
+    "keywords": [
+      "egg",
+      "rice",
+      "fried rice",
+      "quick",
+      "chinese"
+    ],
+    "ingredients": [
+      "3 cups cooked rice (day-old is best)",
+      "3 eggs",
+      "1 cup frozen peas",
+      "3 spring onions",
+      "3 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "2 garlic cloves",
+      "Vegetable oil"
+    ],
+    "steps": [
+      "Heat oil in a wok over high heat. Fry garlic for 30 seconds.",
+      "Add rice and stir fry for 3 minutes until slightly crispy.",
+      "Push rice to the side. Scramble eggs in the space.",
+      "Mix eggs into rice. Add peas, soy sauce, and sesame oil.",
+      "Toss everything together. Top with spring onions."
+    ]
+  },
+  {
+    "id": 51,
+    "emoji": "🥪",
+    "bg": "bg9",
+    "name": "Club Sandwich",
+    "time": "10 min",
+    "badge": "Quick",
+    "badgeClass": "quick",
+    "category": [
+      "quick",
+      "snack",
+      "main"
+    ],
+    "keywords": [
+      "sandwich",
+      "chicken",
+      "bacon",
+      "quick",
+      "club"
+    ],
+    "ingredients": [
+      "3 slices toasted bread",
+      "Cooked chicken breast, sliced",
+      "2 strips bacon",
+      "Lettuce",
+      "Tomato",
+      "Mayonnaise",
+      "Salt & pepper"
+    ],
+    "steps": [
+      "Toast all three bread slices.",
+      "Spread mayo on all slices.",
+      "Layer first slice with chicken and lettuce.",
+      "Add second toast, then bacon and tomato.",
+      "Top with final slice. Cut diagonally and skewer with toothpicks."
+    ]
+  }
+]
