@@ -21,6 +21,7 @@ app.use(express.static(frontendPath));
 app.use('/api/recipes',   require('./routes/recipes'));
 app.use('/api/auth',      require('./routes/auth'));
 app.use('/api/favorites', require('./routes/favorites'));
+app.use('/api/admin',     require('./routes/admin'));
 
 // ── HEALTH CHECK ──────────────────────────────────────────────────────────────
 
